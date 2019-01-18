@@ -1,0 +1,3 @@
+public static void main (str[] args){
+systeam.out.prtint("this is test ;这是一个测试");
+}  
